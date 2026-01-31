@@ -1,0 +1,14 @@
+2026-01-31 21:26:02,322 | INFO | f764be93-189b-4371-bd6d-067296dd02cf | label=REAL | confidence=0.55 | text_len=5
+2026-01-31 21:32:08,822 | INFO | 0c6d4c61-3d8c-4741-a24d-fcbdaf2d9d62 | label=REAL | confidence=0.55 | text_len=5
+2026-01-31 21:47:26,016 | INFO | 9d33a829-2081-4280-bbb3-a2bc0b06a171 | label=FAKE | confidence=0.55 | text_len=4
+2026-01-31 21:47:42,324 | INFO | d76245c6-5469-43ce-975e-1034a8a44df8 | label=FAKE | confidence=0.55 | text_len=3
+2026-01-31 21:47:57,142 | INFO | 4493247a-f140-4302-8647-bf1e31a7779d | label=FAKE | confidence=0.55 | text_len=2
+2026-01-31 21:48:08,422 | INFO | 59eb06a4-ea58-4405-ae79-6095f5553b1c | label=FAKE | confidence=0.55 | text_len=2
+2026-01-31 21:54:15,590 | INFO | 36fa3843-5c52-47a3-b9ab-9657fbb196ec | label=FAKE | confidence=0.55 | text_len=3
+2026-01-31 22:01:12,242 | INFO | 53db5be2-3b5c-4676-a07a-68d5d8db75ef | label=FAKE | confidence=0.12 | text_len=10
+2026-01-31 22:01:12,242 | INFO | 91e4e323-dc17-420b-aba6-ce9ffc7f8ef8 | label=FAKE | confidence=0.12 | text_len=10
+2026-01-31 22:01:12,242 | INFO | 4fe7540a-7013-433a-8a0a-6933a856185a | label=FAKE | confidence=0.12 | text_len=10
+2026-01-31 22:01:12,242 | INFO | 9dc781c5-7091-4fe0-8064-b29d95cfbdeb | label=FAKE | confidence=0.12 | text_len=10
+2026-01-31 22:04:59,630 | INFO | 4bc759ae-500a-45dd-966a-3a42300779b9 | label=FAKE | confidence=0.055 | text_len=6
+2026-01-31 22:06:53,712 | INFO | bf56dcc6-e413-40e2-bb6f-9114c648e03d | label=REAL | confidence=0.998 | text_len=5
+2026-01-31 22:07:10,723 | INFO | 0307b43c-1a4b-4e49-9c8a-b01b50319d53 | label=FAKE | confidence=0.113 | text_len=5
